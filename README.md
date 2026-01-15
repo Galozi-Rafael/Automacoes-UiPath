@@ -16,4 +16,5 @@ Esse repositório de tipo monolítico colecionará projetos de **Automações em
 graph LR
 A[Automações em UiPath] --> B[README.md]
 A --> C[MoverArquivos]
+A --> D[MonitorarEmail]
 ```
