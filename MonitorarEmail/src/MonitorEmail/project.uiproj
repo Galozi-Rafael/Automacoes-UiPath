@@ -1,0 +1,6 @@
+{
+  "Name": "MonitorEmail",
+  "ProjectType": "Process",
+  "Description": "Processo que monitora uma pasta de email e faz download dos anexos.",
+  "MainFile": "Main.xaml"
+}
