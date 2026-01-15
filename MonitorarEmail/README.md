@@ -36,6 +36,8 @@ flowchart TD
     J --> C
 ```
 
+## Estrutura do Repositório
+
 ```mermaid
 graph LR
 A[MonitorarEmail] --> B[src]
