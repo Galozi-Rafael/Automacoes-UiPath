@@ -17,4 +17,5 @@ graph LR
 A[Automações em UiPath] --> B[README.md]
 A --> C[MoverArquivos]
 A --> D[MonitorarEmail]
+A --> E[ExtrairTabelaWeb]
 ```
