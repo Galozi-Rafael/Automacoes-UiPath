@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="R3e6qti-u0abBI1a6my2Rg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="8ea5552f-ff22-4540-b4de-6f913766131a" CvElementArea="15, 858, 459, 39" CvType="Button" DesignTimeRectangle="19, 860, 454, 36" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname=' Download Excel cloud_download' tag='A' /&gt;" Guid="788025ae-62d5-4a5e-98c3-2b1c6aff50ba" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8ea5552f-ff22-4540-b4de-6f913766131a" CvTextArea="28, 799, 104, 19" CvTextArgument="Good luck!" CvType="Text" DesignTimeRectangle="19, 786, 454, 48" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Good luck!' class='instructionsText' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Good luck!' /&gt;" Guid="75b0f56f-3c90-4f69-a709-edd7912fad09" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b094aef53836c05f94d4dfaf6562e3d5.png" xmlns="">03EsmoSxUZke10g3RFeQfow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
